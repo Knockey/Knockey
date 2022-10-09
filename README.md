@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Nik &#9996; </h1>
 
-<p align="center">Making mobile games since 2022. Game logic, AI, UI and analytics programmer.</p>
+<p align="center"><strong>Making mobile games since 2022. Game logic, AI, UI and analytics programmer.</strong></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Knockey&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=radical" width="410"/>
@@ -18,7 +18,7 @@
 <br />
   
 <h2 align="center">My projects 💻</h2>
-<p>Add some of them somday &#128517.</p>
+<p><strong>Add some of them somday&#128517 </strong></p>
 <br /> 
 
 <h2 align="center"> Currently Studying 📕</h2>
