@@ -3,7 +3,7 @@
 <p align="center"><strong>Making mobile games. Game logic, AI, UI and analytics programmer.</strong></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Knockey&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=radical" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Knockey&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=radical" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knockey&layout=compact&theme=radical" width="410"/>
 </p>
 <br />
