@@ -17,10 +17,6 @@
 <img src="https://img.shields.io/badge/-VS2022-903ba7?&style=for-the-badge&logo=visual-studio&logoColor=white" />
 <br />
   
-<h2 align="center">My projects 💻</h2>
-<p><strong>Add some of them somday&#128517 </strong></p>
-<br /> 
-
 <h2 align="center"> Currently Studying 📕</h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/-ASP.NET-903ba7?&style=for-the-badge&logo=.net&logoColor=white" /> 
